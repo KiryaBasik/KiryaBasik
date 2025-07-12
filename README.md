@@ -1,14 +1,45 @@
 # 👋 Hi, I'm @KiryaBasik!  
+My Portfolio website: [Here](https://kiryabasik.github.io/)
 
-💻 **Frontend Developer | 🎸 Guitarist | 🚀 Learning JavaScript**  
+💻 Web Developer | 🤖 AI Developer | 🚀 Frontend Master
 
 ---
 
-## 🚀 About Me  
-- 👀 I’m interested in web development, freelancing, and UI/UX design.  
-- 🌱 I’m currently learning **JavaScript** and improving my **HTML & CSS** skills.  
-- 🎸 In my free time, I **play the guitar and teach others how to play it**.  
-- 💬 I’m looking to collaborate on frontend projects and web applications.  
+## 🚀 About Me
+💼 I specialize in modern websites: HTML, CSS, JavaScript, SCSS.
+
+🌐 Pro at WordPress & Tilda — from landing pages to complex sites.
+
+🤖 I develop AI-powered solutions for smarter, personalized user experiences.
+
+🎨 Passionate about clean UI, UX design, and seamless responsive layouts.
+
+🎸 I also play the guitar and teach others to rock 🤘
+ 
+
+---
+
+💪 What I Can Do for You
+✅ Build responsive, pixel-perfect websites with HTML, CSS, SCSS, and JavaScript.
+
+✅ Set up, customize, and optimize WordPress sites.
+
+✅ Create stylish, converting pages in Tilda with custom code.
+
+✅ Integrate AI features to make your site smart and interactive.
+
+✅ Optimize speed, SEO, and accessibility.
+
+---
+
+⚡ Cool Stuff About Me
+✨ I merge code + design for sites that truly convert.
+
+🤖 I experiment with AI to make smarter, interactive websites.
+
+🎯 I’m detail-oriented but move fast — perfect for freelance projects.
+
+🌍 Open to collaboration worldwide.
 
 ---
 
@@ -19,12 +50,6 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
 ![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-
----
-
-## 📊 GitHub Stats  
-![KiryaBasik's GitHub stats](https://github-readme-stats.vercel.app/api?username=KiryaBasik&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KiryaBasik&layout=compact&theme=tokyonight)  
 
 ---
 
