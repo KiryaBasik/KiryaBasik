@@ -26,10 +26,7 @@
   <br/>
   <img src="./assets/stats.svg" width="100%" alt="GitHub stats"/>
 </p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=KiryaBasik&hide_border=true&border_radius=16&background=16112a&ring=e0374f&fire=f7b6c8&currStreakNum=fbeef2&sideNums=fbeef2&currStreakLabel=f7b6c8&sideLabels=f7b6c8&dates=b9a3c8&stroke=3a2a55" alt="streak"/>
-  <br/><br/>
-</p>
+<br/>
 
 <img src="./assets/title-contact.svg" width="100%" alt="Contact"/>
 
