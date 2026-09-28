@@ -29,7 +29,7 @@ print(KiryuhaCore.resolve("Кирюха"))
 
 <p align="center">
   <br/>
-  <img src="https://skillicons.dev/icons?i=wordpress,php,js,html,css,python,figma,git&theme=dark&perline=8" alt="stack"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,vite,html,css,php,python,nodejs,wordpress,mysql,docker,linux,nginx,git&theme=dark&perline=8" alt="stack"/>
   <br/><br/>
 </p>
 
